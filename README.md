@@ -1,2 +1,2 @@
 # odin-recipes
-new project
+new  RECIPE EXAMPLE project
